@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/macbookpro/miniconda3/envs/stockai/lib/python3.11/site-packages"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.languageServer": "Pylance"
+}
